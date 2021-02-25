@@ -37,7 +37,7 @@ df3 = pd.DataFrame({'custid': df2.custid,
                    })
 
 #Grab between 100 and 300 records from new jittered data
-df_inf = df3.sample(n = random.randint(100,300))
+df_inf = df3.sample(n = random.randint(100,300)).reset_index(drop = True)
 
 #Load in previously trained classification model
 loaded_model = pickle.load(open('/mnt/Models/BestModelCV.pkl', 'rb'))
