@@ -8,7 +8,7 @@ import os
 import requests
 import upload_to_s3
 
-#July 19 comment
+#July 23 comment
 #Read in training data
 print('Reading in training data')
 df = pd.read_csv('/mnt/data/smallPrepared.csv')
