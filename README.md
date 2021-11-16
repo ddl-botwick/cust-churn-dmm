@@ -1,8 +1,8 @@
 # cust-churn-dmm
 
-ADD A NEW COMMENT Nov10
+ADD A NEW COMMENT Nov16
 
-code to push cust churn prediction/ground truth data to s3 and then DMM - November 10th
+code to push cust churn prediction/ground truth data to s3 and then DMM - November 16th
 
 ## Assets
 
