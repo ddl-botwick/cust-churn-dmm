@@ -2,7 +2,7 @@
 
 Jan21!!
 
-code to push cust churn prediction/ground truth data to s3 and then DMM - Jan 18th
+code to push cust churn prediction/ground truth data to s3 and then DMM - Jan 21th
 
 ## Assets
 
